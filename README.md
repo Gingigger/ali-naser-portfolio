@@ -1,15 +1,14 @@
-# Ali Naser — Engineering Portfolio
+# Ali Naser — Engineering Portfolio V6
 
-Updated static portfolio built with HTML, CSS, and JavaScript.
+Static portfolio built with HTML, CSS, and JavaScript.
 
-## Included
-- Responsive portfolio homepage
-- Updated CV PDF
-- CASS project proof gallery and report
-- Smart Home proof gallery and report
-- IEEEXtreme ambassador and Huawei training proof
-- Editable cover-letter section with copy / print actions
-- Personal portrait added to the hero section
+## V6 updates
+- Returned to the dark green / mint visual identity.
+- Kept the cleaner editorial layout and serif display typography from V5.
+- Added lightweight CSS hover interactions without 3D tracking or heavy animation scripts.
+- Added AUST Arduino robotic-car competition proof photos.
+- Updated CV and Nokia telecommunications cover letter remain included.
+- Project images remain compressed for faster loading.
 
 ## Deploy
-Upload the full contents of this folder to your GitHub repository root. Cloudflare Pages will automatically redeploy the site.
+Upload the contents of this folder directly to the root of the existing GitHub repository. Cloudflare Pages will automatically redeploy from the `main` branch.
