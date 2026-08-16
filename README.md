@@ -1,14 +1,18 @@
-# Ali Naser — Engineering Portfolio V6
+ALI NASER PORTFOLIO V7 - DEPLOYMENT
 
-Static portfolio built with HTML, CSS, and JavaScript.
+This version is intentionally simple to upload.
 
-## V6 updates
-- Returned to the dark green / mint visual identity.
-- Kept the cleaner editorial layout and serif display typography from V5.
-- Added lightweight CSS hover interactions without 3D tracking or heavy animation scripts.
-- Added AUST Arduino robotic-car competition proof photos.
-- Updated CV and Nokia telecommunications cover letter remain included.
-- Project images remain compressed for faster loading.
+Upload ALL of these files directly to the ROOT of the existing GitHub repository:
+- index.html
+- Ali_Naser_CV_2026.pdf
+- Ali_Naser_CV_2026.docx
+- Ali_Naser_Cover_Letter_Nokia_2026.pdf
+- Ali_Naser_Cover_Letter_Nokia_2026.docx
+- CASS_Report.pdf
+- Smart_Home_Project_Report.pdf
+- README.md
 
-## Deploy
-Upload the contents of this folder directly to the root of the existing GitHub repository. Cloudflare Pages will automatically redeploy from the `main` branch.
+There is NO assets folder in V7.
+All website photos, the portrait, proof images, hover CSS, JavaScript, favicon, and handwritten signature are embedded directly in index.html. This prevents broken image paths after Cloudflare deployment.
+
+After committing the files to the main branch, wait for Cloudflare Pages to redeploy. Then hard-refresh the live site with Ctrl+Shift+R.
